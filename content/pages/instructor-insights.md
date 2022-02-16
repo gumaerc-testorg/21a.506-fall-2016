@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 4f363b4e-bec1-ed6f-6315-84b21a7631ef
 ---
@@ -70,20 +72,6 @@ HASS-H ![](/images/educator/icon-question-hass-h.png)
 ### Offered
 
 This course was only offered in Fall 2016.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A well-lit, medium-sized room with a couple of rows of desks and chairs facing a small table positioned in front of two blackboards.]({{< resource_file ce1b4c5f-543f-0a58-5800-6a4e9bbfe156 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    This course was taught in a medium-sized classroom equipped with a chalkboard and LCD projector.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
