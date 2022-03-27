@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 12bb964c-3fca-da79-c2b5-157e763dcb59
 resourcetype: Document
 title: '21A.506F16 The Anthropology of Politics - Assignments: Final Paper On Political
   Satire'
