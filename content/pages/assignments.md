@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes the Assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -24,6 +25,6 @@ Students will write a (mini) ethnography of an electoral site. An electoral site
 
 ### Student Example
 
-["On Political Satire: A Humorous Attempt to Subvert the Status Quo." (PDF)]({{< baseurl >}}/resources/mit21a_506f16_satire)
+{{% resource_link f4515fb7-408d-c926-8fc3-39a9b393eb17 "\"On Political Satire: A Humorous Attempt to Subvert the Status Quo.\" (PDF)" %}}
 
 The example above appears courtesy of a MIT student and is anonymous upon request.
