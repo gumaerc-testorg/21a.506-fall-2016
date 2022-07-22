@@ -1,34 +1,35 @@
 ---
 content_type: page
+description: This section provides insights and information about the course from
+  the instructors.
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 4f363b4e-bec1-ed6f-6315-84b21a7631ef
 ---
-
-Course Overview
----------------
+## Course Overview
 
 This page focuses on the course _21A.506_ _The Anthropology of Politics: U.S. Presidential Election Edition_ as it was taught by Maria Vidart-Delgado in Fall 2016.
 
 This course examined the birth and international expansion of an American industry of political marketing. It focused attention on the cultural processes, sociopolitical contexts and moral utopias that shape the practice of political marketing in the U.S. and in different countries. By looking at the debates and expert practices at the core of the business of politics, the course explored how the "universal" concept of democracy is interpreted and reworked through space and time, while examining how different cultural groups experimenting with political marketing understand the role of citizens in a democracy.
 
-Course Outcomes
----------------
+## Course Outcomes
 
 ### Course Goals for Students
 
-*   Identify key debates in the anthropology of politics
-*   Apply anthropological concepts to the analysis of politics
-*   Distinguish between democracy as ideal, and democracy as practice
+- Identify key debates in the anthropology of politics
+- Apply anthropological concepts to the analysis of politics
+- Distinguish between democracy as ideal, and democracy as practice
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 {{< quote "We need more classroom discussions about uncomfortable topics. I strived to provide a safe space in which all points of view were welcome, but in which we could also openly discuss the real-world implications of our assumptions." "— Maria Vidart-Delgado" >}}
 
-_Below, Maria Vidart-Delgado responds to questions about how she taught_ 21A.506 The Anthropology of Politics: U.S. Presidential Election Edition_._
+_Below, Maria Vidart-Delgado responds to questions about how she taught_ 21A.506 The Anthropology of Politics: U.S. Presidential Election Edition.
 
 **OCW**: Some educators might shy away from facilitating classroom discussions about emotionally heated topics, like elections. Tell us about your decision to create a course around this topic.
 
@@ -54,8 +55,7 @@ _Below, Maria Vidart-Delgado responds to questions about how she taught_ 21A.506
 
 {{< /div-with-class >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -71,24 +71,9 @@ HASS-H ![](/images/educator/icon-question-hass-h.png)
 
 This course was only offered in Fall 2016.
 
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A well-lit, medium-sized room with a couple of rows of desks and chairs facing a small table positioned in front of two blackboards.]({{< resource_file ce1b4c5f-543f-0a58-5800-6a4e9bbfe156 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Seminar
-    
-    This course was taught in a medium-sized classroom equipped with a chalkboard and LCD projector.
-    
-
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
@@ -100,10 +85,11 @@ The students' grades were based on the following activities:
 - 5% Presentations
 - 15% Attendance and class discussion
 
-Student Information
--------------------
+## Student Information
 
-![Less than 10 students took this course when it was offered in Fall 2016.]({{< resource_file 0c3bf604-5f1d-fdb9-0e96-6f93a2a2f0e4 >}})
+### Enrollment
+
+Fewer than 10 students
 
 ### Breakdown by Year
 
@@ -123,18 +109,15 @@ The ideal class size for this discussion-based course is 8-15 students.
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 12 hours on the course, roughly divided as follows:
 
-Seminar
--------
+### Seminar
 
-*   Met twice a week for 1.5 hours per session; 27 sessions total; mandatory attendance.
-*   Class sessions were discussion-based.
+- Met twice a week for 1.5 hours per session; 27 sessions total; mandatory attendance.
+- Class sessions were discussion-based.
 
-Out of Class
-------------
+### Out of Class
 
-*   Outside of class, students completed readings and screenings in preparation for class sessions. They also completed [two assignments and one small-scale ethnography]({{< baseurl >}}/pages/assignments).
+- Outside of class, students completed readings and screenings in preparation for class sessions. They also completed {{% resource_link 12bb964c-3fca-da79-c2b5-157e763dcb59 "two assignments and one small-scale ethnography" %}}.

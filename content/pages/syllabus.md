@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the course meeting times, a course description,
+  learning objectives, a grading policy, and reading materials info.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 21104fcb-181f-0749-aade-7806b9b16913
 ---
@@ -43,7 +47,7 @@ Students will turn in two assignments, and a final research paper.
 *   Assignment 2: Imagining a Campaign
 *   Assignment 3: Final Paper - (Mini) Ethnography and Presentations
 
-For further detail on these, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For further detail on these, see the {{% resource_link 12bb964c-3fca-da79-c2b5-157e763dcb59 "Assignments" %}} section.
 
 Grading Policy
 --------------
@@ -136,7 +140,7 @@ Schudson, Michael. _The Good Citizen: A History of American Civic Life_. Free Pr
 
 Nielsen, Rasmus Kleis. _Ground Wars: Personalized Communication in Political Campaigns_. Princeton University Press, 2012. ISBN: 9780691153056. \[Preview with [Google Books](http://books.google.com/books?id=D0QjX9gn-q4C&pg=PAfrontcover)\]
 
-Other readings for the class can be found in the table in the [Readings]({{< baseurl >}}/pages/readings) section.
+Other readings for the class can be found in the table in the {{% resource_link 175cb06c-0dff-433a-4348-be5233ecbecd "Readings" %}} section.
 
 Citations
 ---------
