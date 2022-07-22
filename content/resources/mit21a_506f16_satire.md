@@ -5,6 +5,7 @@ file: /courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-ed
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21A.506F16 The Anthropology of Politics - Assignments: Final Paper On Po
 uid: f4515fb7-408d-c926-8fc3-39a9b393eb17
 ---
 This resource contains information regarding satire.
-
