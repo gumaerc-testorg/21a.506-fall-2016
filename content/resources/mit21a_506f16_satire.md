@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding satire.
-file: /courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/f4515fb7408dc9268fc339a9b393eb17_MIT21A_506F16_Satire.pdf
+file: /ol-ocw-studio-app/courses/21a-506-the-anthropology-of-politics-u-s-presidential-election-edition-fall-2016/f4515fb7408dc9268fc339a9b393eb17_MIT21A_506F16_Satire.pdf
 file_size: 668932
 file_type: application/pdf
 learning_resource_types:
