@@ -138,13 +138,13 @@ There are two required books for this class:
 
 Schudson, Michael. _The Good Citizen: A History of American Civic Life_. Free Press, 2011. ISBN: 9781451631623.
 
-Nielsen, Rasmus Kleis. _Ground Wars: Personalized Communication in Political Campaigns_. Princeton University Press, 2012. ISBN: 9780691153056. \[Preview with [Google Books](http://books.google.com/books?id=D0QjX9gn-q4C&pg=PAfrontcover)\]
+Nielsen, Rasmus Kleis. _Ground Wars: Personalized Communication in Political Campaigns_. Princeton University Press, 2012. ISBN: 9780691153056. \[Preview with {{% resource_link "9f22b906-a39f-4587-8c55-570d36477e9a" "Google Books" %}}\]
 
 Other readings for the class can be found in the table in the {{% resource_link 175cb06c-0dff-433a-4348-be5233ecbecd "Readings" %}} section.
 
 Citations
 ---------
 
-Plagiarism is a serious offense. If you're borrowing exact words from an author, use quotation marks, and include the source in parentheses thereafter (author's last name, year: page number). If you're paraphrasing, include the source you're borrowing ideas from in parentheses (author's last name, year). For more information on citation formats, check out the [Chicago Manual of Style Online](http://www.chicagomanualofstyle.org/home.html).
+Plagiarism is a serious offense. If you're borrowing exact words from an author, use quotation marks, and include the source in parentheses thereafter (author's last name, year: page number). If you're paraphrasing, include the source you're borrowing ideas from in parentheses (author's last name, year). For more information on citation formats, check out the {{% resource_link "5b41dcf1-af01-4b55-8719-44f663abacbe" "Chicago Manual of Style Online" %}}.
 
-If you need writing assistance, the [Writing and Communication Center at MIT](http://cmsw.mit.edu/writing-and-communication-center/) offers MIT students free one-on-one professional advice from communication experts.
+If you need writing assistance, the {{% resource_link "fb303d67-06c7-4692-b3b2-81b9c0aa5546" "Writing and Communication Center at MIT" %}} offers MIT students free one-on-one professional advice from communication experts.
